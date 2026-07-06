@@ -1,10 +1,10 @@
 # Hi, I'm Sepehr Zarei 👋
 
-Software Engineer • .NET Developer • Systems Builder
+Software Engineer • .NET Developer
 
 I build reliable backend systems, developer tools, crawlers, and hardware-integrated software.
 
-[LinkedIn](https://www.linkedin.com/in/sepehrzarei/) • [Email](mailto:s.zareiweb@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/sepehr-zarei/) • [Email](mailto:s.zareiweb@gmail.com)
 
 ## About Me
 
